@@ -21,16 +21,16 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Han Yun-Jo"
 description              : "Everything studied"
-url                      : "https://github.com/hanyunjo/hanyunjo.github.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hanyunjo.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hanyunjo/hanyunjo.github.il"
+repository               : "hanyunjo/hanyunjo.github.com"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "pleasure of creating"# toppest title, use " " for no title
+masthead_title           : "pleasure of creating" # toppest title, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
